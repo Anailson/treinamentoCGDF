@@ -35,3 +35,4 @@ C:\TREINAMENTO-CGDF-DOTNET\Treinamento\Treinamento\obj\Debug\netcoreapp3.1\Trein
 C:\TREINAMENTO-CGDF-DOTNET\Treinamento\Treinamento\obj\Debug\netcoreapp3.1\Treinamento.pdb
 C:\TREINAMENTO-CGDF-DOTNET\Treinamento\Treinamento\obj\Debug\netcoreapp3.1\Treinamento.genruntimeconfig.cache
 C:\TREINAMENTO-CGDF-DOTNET\Treinamento\Treinamento\obj\Debug\netcoreapp3.1\Treinamento.csproj.CopyComplete
+C:\TREINAMENTO-CGDF-DOTNET\Treinamento\Treinamento\obj\Debug\netcoreapp3.1\Razor\Views\Aluno\Index.cshtml.g.cs
